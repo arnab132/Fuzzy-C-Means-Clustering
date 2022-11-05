@@ -1,7 +1,7 @@
 # Fuzzy C Means Clustering
 
 Type: Clustering algorithm
-Dataset used: Iris dataset
+Dataset used: Iris dataset (Available online)
 
 Requirements:
 
