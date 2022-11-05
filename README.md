@@ -8,7 +8,7 @@ Dataset used: Iris dataset (Available online)
 
 Requirements:
 
-Packages:
+Python Packages:
 
 Pandas - https://pandas.pydata.org/docs/getting_started/install.html
 Numpy - https://numpy.org/install/
