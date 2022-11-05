@@ -1,4 +1,4 @@
-# FuzzyCMeans-Clustering
+# Fuzzy C Means Clustering
 
 Type: Clustering algorithm
 Dataset used: Iris dataset
