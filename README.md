@@ -1,6 +1,7 @@
 # Fuzzy C Means Clustering Implementation
 
 Type: Clustering algorithm
+
 Learing: Unsupervised Learning
 
 Dataset used: Iris dataset (Available online)
