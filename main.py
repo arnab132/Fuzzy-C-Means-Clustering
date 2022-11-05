@@ -10,7 +10,7 @@ from sklearn.datasets import load_iris
 iris = load_iris()
 df = pd.DataFrame(iris.data)
 
-#number of data
+#Number of data
 n = len(df)
 
 #number of clusters
