@@ -1,6 +1,6 @@
 # Fuzzy C Means Clustering Implementation
 
-Type: An Clustering algorithm
+Type: An Clustering Algorithm
 
 Learing: Unsupervised Learning
 
