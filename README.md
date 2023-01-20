@@ -1,4 +1,4 @@
-# Fuzzy C Means Clustering Implementation
+# Fuzzy C - Means Clustering Implementation
 
 Type: Clustering Algorithm
 
