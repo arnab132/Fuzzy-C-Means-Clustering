@@ -4,7 +4,7 @@ Type: Clustering Algorithm
 
 Learing: Unsupervised Learning Approach
 
-Dataset used: Iris Dataset (Available online)
+Dataset used: Iris Dataset (Available Online)
 
 Requirements:
 
